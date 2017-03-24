@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed'); ?>
     </div>
 </div>
 
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default ew-navbar">
     <div class="container-fluid">
         <div class="navbar-header">
             <!-- <a class="navbar-brand" href="#">WebSiteName</a> -->

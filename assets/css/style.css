@@ -5,8 +5,16 @@
  */
 
 /**
- * Main Site Css
+ * Header and Navabr Site Css
  */
+
+.ew-navbar {
+    background-color: #68829e;
+    border-radius: 0px;
+    border-color: #68829e;
+    min-height: 60px;
+}
+
 
 .ew-first-section {
     height: 250px;
