@@ -1,0 +1,20 @@
+
+
+/**
+ * Default Styles
+ */
+
+/**
+ * Main Site Css
+ */
+
+.ew-first-section {
+    height: 250px;
+    background-color: red;
+}
+
+.ew-bg-img {
+    background: url(../Images/crew-22256.jpg) center center no-repeat;
+    background-size: cover;
+    height: 100%;
+}
